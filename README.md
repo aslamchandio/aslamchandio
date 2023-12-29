@@ -3,13 +3,20 @@
 <h3> 👨🏻‍💻 &nbsp;About Me</h3>
 
 🏢 I’m currently working as **Cloud & DevOps Engineer**
+
 🌱 I’m currently working on **Setting up infra using Terraform over GCP & AWS**
+
 💬 Ask me about **DevOps Tools and Practices**
+
 📫 You can reach me at **aslam.chandio03@gmail.com**
-💡 &nbsp;I like to explore new technologies .\
-🌱 &nbsp;I'm on track for learning more about Devops, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+
+💡 I like to explore new technologies .
+
+🌱 I'm on track for learning more about Devops, Systems Design, and Cloud Architecture.
+
+✍️ In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.
+
+💬 Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
