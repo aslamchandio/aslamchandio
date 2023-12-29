@@ -14,7 +14,7 @@
 
 🌱 I'm on track for learning more about Devops, Systems Design, and Cloud Architecture.
 
-✍️ In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.
+✍️ In my free time,  Blog Writing as Linkedin/Medium.
 
 💬 Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
 
@@ -24,7 +24,7 @@
 
 - 🎖 Associate Cloud Engineer  - [Google Cloud](https://www.credential.net/294df428-1862-42bc-a840-314ecbe2b327#gs.q8z087)
 
-- 🎖 Professional Cloud Network - [Google Cloud](https://www.credential.net/18fd1f5e-9fec-4a15-ad10-84d33cf81842)
+- 🎖 Professional Cloud Network Engineer - [Google Cloud](https://www.credential.net/18fd1f5e-9fec-4a15-ad10-84d33cf81842)
 
 - 🎖 Various Courses of Docker and Kubernetes - Udemy
 
@@ -32,7 +32,7 @@
 
 - 🎖 Packaging Applications using Helm - Pluralsight & Udemy and many more...
 
-  <h3> 🧾 My Articles </h3>
+<h3> 🧾 My Articles </h3>
 
 - 📦 Deploy Terraform Code using GitHub Actions with OpenID Connect (OIDC) identity providers on AWS - [Linkedin](https://www.linkedin.com/pulse/deploy-terraform-code-aws-cloud-using-github-actions-openid-chandio-oxc5f?trk=public_profile_article_view)
 
