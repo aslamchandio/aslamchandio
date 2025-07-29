@@ -22,9 +22,11 @@
 
 <h3> 🧾 Certifications I have Accomplished </h3>
 
-- 🎖 Associate Cloud Engineer  - [Google Cloud](https://www.credential.net/294df428-1862-42bc-a840-314ecbe2b327#gs.q8z087)
+- 🎖 Professional Cloud Architect  - [Google Cloud](https://www.credly.com/badges/ead814d6-f9ec-40c3-bdea-38d5d63f6b17)
 
-- 🎖 Professional Cloud Network Engineer - [Google Cloud](https://www.credential.net/18fd1f5e-9fec-4a15-ad10-84d33cf81842)
+- 🎖 Associate Cloud Engineer  - [Google Cloud](https://www.credly.com/badges/bb6c8c2d-aebc-4367-a027-d75d89333909)
+
+- 🎖 Professional Cloud Network Engineer - [Google Cloud](https://www.credly.com/badges/220ed229-1a4e-4830-899e-aea10aea62c1)
 
 - 🎖 Various Courses of Docker and Kubernetes - Udemy
 
