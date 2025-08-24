@@ -24,9 +24,9 @@
 
 - 🎖 Professional Cloud Architect  - [Google Cloud](https://www.credly.com/badges/ead814d6-f9ec-40c3-bdea-38d5d63f6b17)
 
-- 🎖 Associate Cloud Engineer  - [Google Cloud](https://www.credly.com/badges/bb6c8c2d-aebc-4367-a027-d75d89333909)
+- 🎖 Associate Cloud Engineer  - [Google Cloud](https://www.credly.com/badges/220ed229-1a4e-4830-899e-aea10aea62c1)
 
-- 🎖 Professional Cloud Network Engineer - [Google Cloud](https://www.credly.com/badges/220ed229-1a4e-4830-899e-aea10aea62c1)
+- 🎖 Professional Cloud Network Engineer - [Google Cloud](https://www.credly.com/badges/bb6c8c2d-aebc-4367-a027-d75d89333909)
 
 - 🎖 Various Courses of Docker and Kubernetes - Udemy
 
@@ -35,6 +35,14 @@
 - 🎖 Packaging Applications using Helm - Pluralsight & Udemy and many more...
 
 <h3> 🧾 My Articles </h3>
+
+- 📦 Create an GKE Cluster With Gateway API using Google-Managed SSL Certificates with External DNS(Cloud DNS) - [Linkedin](https://www.linkedin.com/pulse/create-gke-cluster-gateway-api-using-google-managed-ssl-aslam-chandio-o6fxf/?trackingId=Gj5%2Brz7uQS2vc4S5SBJt2Q%3D%3D)
+
+ - 📦 Highly Available Kubernetes Cluster with Kubeadm using HAProxy LoadBalancer - [Linkedin](https://www.linkedin.com/pulse/highly-available-kubernetes-cluster-kubeadm-using-haproxy-chandio-2uuse/?trackingId=Gj5%2Brz7uQS2vc4S5SBJt2Q%3D%3D)
+
+ - 📦 Google Cloud | Shared VPC | GKE: Provisioning GKE Private Cluster in Shared VPC using Terraform - [Linkedin](https://www.linkedin.com/pulse/google-cloud-shared-vpc-gke-provisioning-private-cluster-chandio-vvbdf/?trackingId=Gj5%2Brz7uQS2vc4S5SBJt2Q%3D%3D)
+
+ - 📦 Deploy Terraform Code using GitHub Actions with OpenID Connect (OIDC) identity providers (GCP Cloud) - [Linkedin](https://www.linkedin.com/pulse/deploy-terraform-code-using-github-actions-openid-connect-chandio-brwbf/?trackingId=Gj5%2Brz7uQS2vc4S5SBJt2Q%3D%3D)   
 
 - 📦 Deploy Terraform Code using GitHub Actions with OpenID Connect (OIDC) identity providers on AWS - [Linkedin](https://www.linkedin.com/pulse/deploy-terraform-code-aws-cloud-using-github-actions-openid-chandio-oxc5f?trk=public_profile_article_view)
 
