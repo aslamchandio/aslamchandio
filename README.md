@@ -22,6 +22,8 @@
 
 <h3> 🧾 Certifications I have Accomplished </h3>
 
+- 🎖 KCNA: Kubernetes and Cloud Native Associate  - [The Linux Foundation](https://www.credly.com/badges/f8c4ad63-e3de-433e-8397-f4d6856daab6)
+
 - 🎖 Professional Cloud Architect  - [Google Cloud](https://www.credly.com/badges/ead814d6-f9ec-40c3-bdea-38d5d63f6b17)
 
 - 🎖 Associate Cloud Engineer  - [Google Cloud](https://www.credly.com/badges/220ed229-1a4e-4830-899e-aea10aea62c1)
